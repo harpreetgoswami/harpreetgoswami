@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harpreetkaur7j@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM MISTERIOUS PERSON**
+- ⚡ Fun fact **I THINK I AM FUNNY PERSON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
