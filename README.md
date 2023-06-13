@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm HARPREET KAUR</h1>
-<b><I> <H2 ALIGN CENTER COLOR="BLUE" SIZE="15" WELCOME TO MY GIT HUB </H2><B><I>
   
 - 🔭 I’m currently working on **AMAZON WEB SERVICES /SAP PROJECT**
 
