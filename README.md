@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARPREET KAUR</h1>
+<b><I><ALIGN COLOR="BLUE" SIZE="15" WELCOME TO MY GIT HUB PAGE LEARN SOMETHING NEW TOGETHER<B><I>
+  
 - 🔭 I’m currently working on **AMAZON WEB SERVICES /SAP PROJECT**
 
 - 🌱 I’m currently learning **AWS, GITHUB, GIT, LINUX, KUBERNATES, DOCKER, TERRAFORM**
