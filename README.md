@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
 <h3 align="left">Connect with me:</h3>
- <img align="right" alt="information technology" width="450" src="![image](https://github.com/harpreetgoswami/harpreetgoswami/assets/109573046/bb21e394-0f69-4ecd-a3b6-8d128ffbab2b)">
+ <img align="right" alt="information technology" width="450" src="https://github.com/harpreetgoswami/harpreetgoswami/assets/109573046/bb21e394-0f69-4ecd-a3b6-8d128ffbab2b.gif">
 <p align="left">
 </p>
 
