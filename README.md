@@ -4,13 +4,7 @@
 
 - 🔭 I’m currently working on **AMAZON WEB SERVICES /SAP PROJECT**
 
-- 🌱 I’m currently learning **AWS, GITHUB, GIT, LINUX, KUBERNATES, DOCKER, TERRAFORM**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HARPREETGOSWAMI](https://github.com/HARPREETGOSWAMI)
-
-- 📝 I regularly write articles on [https://github.com/HARPREETGOSWAMI](https://github.com/HARPREETGOSWAMI)
-
-- 📫 How to reach me **harpreetkaur7j@gmail.com**
+- 🌱 I’m currently learning **AWS, GITHUB, GIT, LINUX, KUBERNATES, DOCKER, and TERRAFORM**
 
 <h3 align="left">Connect with me:</h3>
 
