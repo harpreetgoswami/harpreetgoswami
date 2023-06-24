@@ -10,9 +10,10 @@
 
 - 📫 How to reach me **harpreetkaur7j@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM FUNNY PERSON**
+- ⚡ Fun fact **I THINK I AM FUNNY**
 
 <h3 align="left">Connect with me:</h3>
+ <img align="right" alt="information technology" width="450" scr="https://github.com/harpreetgoswami/harpreetgoswami/assets/109573046/8f61d770-f3e4-473b-a216-6223e379ee76" >                               
 <p align="left">
 </p>
 
