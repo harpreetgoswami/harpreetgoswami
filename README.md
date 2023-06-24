@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋,I'm HARPREET KAUR</h1>
   
 - 🔭 I’m currently working on **AMAZON WEB SERVICES/SAP PROJECT**
